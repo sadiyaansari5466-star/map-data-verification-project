@@ -13,7 +13,7 @@ I made this project to practice how real map data is checked and verified. The i
 
 ## What I learned
 
-While doing this, I noticed that most data is correct, but some places have wrong timings or missing details. It also depends on where you check — not all sources match.
+While doing this, I noticed that most data is correct, but some places have wrong timings or missing details. It also depends on where you check not all sources match.
 
 ## Tools used
 

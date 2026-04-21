@@ -6,7 +6,7 @@ I made this project to practice how real map data is checked and verified. The i
 
 ## What I did
 
-* Collected around 30+ restaurant listings from Mumbai
+* Collected around 20+ restaurant listings from Mumbai
 * Checked details like address, timings, and business names
 * Compared map data with other sources like websites and listings
 * Marked data as correct, incorrect, or needs checking
